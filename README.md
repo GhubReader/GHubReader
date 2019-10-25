@@ -6,7 +6,7 @@
 
 1. 首先打开GitHub页面，如何登陆账号的话，可以不用每次都登陆
 
-![打开GitHub页面](https://github.com/GhubReader/GHubReader/blob/master/img/device-2019-10-25-140536.png)
+![打开GitHub页面](img/device-2019-10-25-140536.png)
 
 2. 打开需要添加的项目
 
